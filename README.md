@@ -26,6 +26,7 @@ EtlService.sln
 ├── EtlService.API              # API project (entry point)
 ├── EtlService.Application      # Interfaces, models, use cases
 ├── EtlService.Infrastructure   # Services, external systems (CSV, Service Bus)
+├── EtlService.Domain           # Entities
 ├── EtlService.Tests            # Unit tests
 ```
 
