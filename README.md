@@ -111,6 +111,11 @@ dotnet test EtlService.Tests
 
 ---
 
+## 🙋‍♂️ About Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harshidkahar/)
+- 🌐 [Website](https://harshidkahar.com/)
+
 ## 👨‍💻 Contributing
 
 Feel free to fork and contribute! Open issues and PRs are welcome.
